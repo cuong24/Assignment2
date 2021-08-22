@@ -1,0 +1,8 @@
+bs4
+pymongo
+pymongo[srv]
+tqdm
+jupyter
+jupyterlab
+spacy_dbpedia_spotlight
+pandas
